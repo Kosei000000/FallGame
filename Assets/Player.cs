@@ -6,7 +6,7 @@ public class Player : MonoBehaviour
 {
     public float speed;
     public Text ScoreText;
-    private int Score;
+    public int Score;
     // Start is called before the first frame update
     void Start()
     {
